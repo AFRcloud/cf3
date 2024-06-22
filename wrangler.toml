@@ -1,86 +1,86 @@
-name = "sg1" # todo
+name = "sg2" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 [[routes]]
-pattern = "sg1.afrcloud.xyz"
+pattern = "sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "mssdk24-normal-useast2a.tiktokv.com.sg1.afrcloud.xyz"
+pattern = "mssdk24-normal-useast2a.tiktokv.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "ava.game.naver.com.sg1.afrcloud.xyz"
+pattern = "ava.game.naver.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.co.id.sg1.afrcloud.xyz"
+pattern = "app.genflix.co.id.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "app.gopay.co.id.sg1.afrcloud.xyz"
+pattern = "app.gopay.co.id.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "blue.blibli.com.sg1.afrcloud.xyz"
+pattern = "blue.blibli.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "zaintest.vuclip.com.sg1.afrcloud.xyz"
+pattern = "zaintest.vuclip.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "cache.netflix.com.sg1.afrcloud.xyz"
+pattern = "cache.netflix.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "graph.instagram.com.sg1.afrcloud.xyz"
+pattern = "graph.instagram.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investor.fb.com.sg1.afrcloud.xyz"
+pattern = "investor.fb.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "investors.spotify.com.sg1.afrcloud.xyz"
+pattern = "investors.spotify.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "m.pubgmobile.com.sg1.afrcloud.xyz"
+pattern = "m.pubgmobile.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "m.mobilelegends.com.sg1.afrcloud.xyz"
+pattern = "m.mobilelegends.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "web.poe.garena.com.sg1.afrcloud.xyz"
+pattern = "web.poe.garena.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "dl.cvs.freefiremobile.com.sg1.afrcloud.xyz"
+pattern = "dl.cvs.freefiremobile.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "m.googlevideo.com.sg1.afrcloud.xyz"
+pattern = "m.googlevideo.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "s.youtube.com.sg1.afrcloud.xyz"
+pattern = "s.youtube.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "test.noice.id.sg1.afrcloud.xyz"
+pattern = "test.noice.id.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "support.zoom.us.sg1.afrcloud.xyz"
+pattern = "support.zoom.us.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "img.email1.vidio.com.sg1.afrcloud.xyz"
+pattern = "img.email1.vidio.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.staging.vidio.com.sg1.afrcloud.xyz"
+pattern = "quiz.staging.vidio.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.sg1.afrcloud.xyz"
+pattern = "quiz.int.vidio.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "blog.webex.com.sg1.afrcloud.xyz"
+pattern = "blog.webex.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "cdn.appsflayer.com.sg1.afrcloud.xyz"
+pattern = "cdn.appsflayer.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "cdn.appsflayer.com.sg1.afrcloud.xyz"
+pattern = "cdn.appsflayer.com.sg2.afrcloud.xyz"
 custom_domain = true
 [[routes]]
-pattern = "app.genflix.com.sg1.afrcloud.xyz"
+pattern = "app.genflix.com.sg2.afrcloud.xyz"
 custom_domain = true
 
 [vars]
